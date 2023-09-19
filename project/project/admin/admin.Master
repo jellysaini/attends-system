@@ -1,0 +1,56 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="admin.Master.cs" Inherits="project.admin.Site1" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>interNET</title>
+
+<link href="../css/styles.css" rel="stylesheet" type="text/css" />
+<link href="../css/mainstyle.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+
+<div id="container">
+
+<div id="header">
+
+<a href="#"></a>&nbsp;
+
+<ul class="menu">
+<li class="home"><a href="../login.aspx" title="Home Page">home page</a></li>
+<li class="about"><a href="userregister.aspx" title="Add User">add users</a></li>
+<li class="services"><a href="changepassword.aspx" title="Change Password">change password</a></li>
+<li class="solutions"><a href="reports.aspx" title="Reports">reports</a></li>
+<li class="support"><a href="salarydetail.aspx" title="User Salary">user salary</a></li>
+<li class="contacts"><a href="leaverequst.aspx" title="Leave Request">leave request</a></li>
+</ul>
+
+</div>
+
+
+
+<div id="content">
+         <form id="admin_form" runat="server">
+         <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+            <td style="width:4%">&nbsp;</td>
+            <td style="width:92%" align="right">
+                <asp:LinkButton ID="lnk_logout" runat="server" CssClass="lnk" 
+                    onclick="lnk_logout_Click"><b style="font-size:14px;font-weight:bold">Logout</b></asp:LinkButton>
+            </td>
+            <td style="width:4%">&nbsp;</td>
+        </tr>
+    </table>
+   
+    <asp:ContentPlaceHolder ID="Admin_ContentPlaceHolder" runat="server">
+    </asp:ContentPlaceHolder>
+    </form>
+</div>
+</div>
+<div id="footer"><p><a href="#">HOME</a> | <a href="#">ABOUT US</a> | <a href="#">SERVICES</a> | <a href="#">SOLUTIONS</a> | <a href="#">SUPPORT</a> | <a href="#">NEWS</a> | <a href="#">CONTACTS</a><br/>Copyright &copy; Your Company Name. Designed by <a href="http://www.freecsstemplates.com" target="_blank">FreeCSSTemplates.com</a></p>
+</div>
+</body>
+</html>

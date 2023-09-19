@@ -1,0 +1,60 @@
+D:\jelly\new project\project\project\project\bin\project.dll
+D:\jelly\new project\project\project\project\bin\project.pdb
+D:\jelly\new project\project\project\project\obj\Debug\ResolveAssemblyReference.cache
+D:\jelly\new project\project\project\project\obj\Debug\project.dll
+D:\jelly\new project\project\project\project\obj\Debug\project.pdb
+D:\jelly\new project\project\project\bin\project.dll
+D:\jelly\new project\project\project\bin\project.pdb
+D:\jelly\new project\project\project\obj\Debug\ResolveAssemblyReference.cache
+D:\jelly\new project\project\project\obj\Debug\project.dll
+D:\jelly\new project\project\project\obj\Debug\project.pdb
+C:\Users\jelly\Desktop\project\project\bin\project.dll
+C:\Users\jelly\Desktop\project\project\bin\project.pdb
+C:\Users\jelly\Desktop\project\project\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jelly\Desktop\project\project\obj\Debug\project.dll
+C:\Users\jelly\Desktop\project\project\obj\Debug\project.pdb
+E:\PRO\project\project\project\bin\project.dll
+E:\PRO\project\project\project\bin\project.pdb
+E:\PRO\project\project\project\obj\Debug\ResolveAssemblyReference.cache
+E:\PRO\project\project\project\obj\Debug\project.dll
+E:\PRO\project\project\project\obj\Debug\project.pdb
+C:\Documents and Settings\jarnail\Desktop\project\project\bin\project.dll
+C:\Documents and Settings\jarnail\Desktop\project\project\bin\project.pdb
+C:\Documents and Settings\jarnail\Desktop\project\project\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jarnail\Desktop\project\project\obj\Debug\project.dll
+C:\Documents and Settings\jarnail\Desktop\project\project\obj\Debug\project.pdb
+C:\Documents and Settings\jarnail\Desktop\project\project\bin\businesslayer.dll
+C:\Documents and Settings\jarnail\Desktop\project\project\bin\datalayer.dll
+C:\Documents and Settings\jarnail\Desktop\project\project\bin\businesslayer.pdb
+C:\Documents and Settings\jarnail\Desktop\project\project\bin\datalayer.pdb
+D:\jelly\new project\project\project\bin\businesslayer.dll
+D:\jelly\new project\project\project\bin\datalayer.dll
+D:\jelly\new project\project\project\bin\businesslayer.pdb
+D:\jelly\new project\project\project\bin\datalayer.pdb
+C:\Users\jelly\Desktop\jelly\project\project\bin\project.dll
+C:\Users\jelly\Desktop\jelly\project\project\bin\project.pdb
+C:\Users\jelly\Desktop\jelly\project\project\bin\businesslayer.dll
+C:\Users\jelly\Desktop\jelly\project\project\bin\datalayer.dll
+C:\Users\jelly\Desktop\jelly\project\project\bin\businesslayer.pdb
+C:\Users\jelly\Desktop\jelly\project\project\bin\datalayer.pdb
+C:\Users\jelly\Desktop\jelly\project\project\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jelly\Desktop\jelly\project\project\obj\Debug\project.dll
+C:\Users\jelly\Desktop\jelly\project\project\obj\Debug\project.pdb
+C:\Documents and Settings\jarnail.DESIGNLA-8CD018\Desktop\jelly\project\project\bin\project.dll
+C:\Documents and Settings\jarnail.DESIGNLA-8CD018\Desktop\jelly\project\project\bin\project.pdb
+C:\Documents and Settings\jarnail.DESIGNLA-8CD018\Desktop\jelly\project\project\bin\businesslayer.dll
+C:\Documents and Settings\jarnail.DESIGNLA-8CD018\Desktop\jelly\project\project\bin\datalayer.dll
+C:\Documents and Settings\jarnail.DESIGNLA-8CD018\Desktop\jelly\project\project\bin\businesslayer.pdb
+C:\Documents and Settings\jarnail.DESIGNLA-8CD018\Desktop\jelly\project\project\bin\datalayer.pdb
+C:\Documents and Settings\jarnail.DESIGNLA-8CD018\Desktop\jelly\project\project\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jarnail.DESIGNLA-8CD018\Desktop\jelly\project\project\obj\Debug\project.dll
+C:\Documents and Settings\jarnail.DESIGNLA-8CD018\Desktop\jelly\project\project\obj\Debug\project.pdb
+E:\Dot Net Project\Attends\project\project\bin\project.dll
+E:\Dot Net Project\Attends\project\project\bin\project.pdb
+E:\Dot Net Project\Attends\project\project\bin\businesslayer.dll
+E:\Dot Net Project\Attends\project\project\bin\datalayer.dll
+E:\Dot Net Project\Attends\project\project\bin\businesslayer.pdb
+E:\Dot Net Project\Attends\project\project\bin\datalayer.pdb
+E:\Dot Net Project\Attends\project\project\obj\Debug\ResolveAssemblyReference.cache
+E:\Dot Net Project\Attends\project\project\obj\Debug\project.dll
+E:\Dot Net Project\Attends\project\project\obj\Debug\project.pdb

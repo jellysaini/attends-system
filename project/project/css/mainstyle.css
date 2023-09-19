@@ -1,0 +1,50 @@
+.txt 
+  {
+     width:150px;
+     height:19px; 
+     border: 3px double #7A807D ;
+ }
+ .txt_calendar 
+  {
+     width:100px;
+     height:19px; 
+     border: 3px double #7A807D ;
+ }
+ .txt_address
+  {
+     width:170px;
+     height:50px; 
+     border: 3px double #7A807D ;
+ }
+ .txt_leave
+  {
+     width:200px;
+     height:50px; 
+     border: 3px double #7A807D ;
+ }
+ fieldset
+  {
+    border: 1px solid #000000;
+    -moz-border-radius: 8px; 
+    
+             
+  }
+  .btn
+  {
+  	width:80px;
+  	height:30px;
+  	text-align:center;
+  	border:0px;
+  	border:3px double #7A807D;
+	font-weight: 600;
+}
+.drp 
+  {
+     width:160px;
+     height:24px; 
+     border: 3px double #7A807D ;
+ }
+ .lnk
+ {
+ 	text-decoration:none;
+ }
